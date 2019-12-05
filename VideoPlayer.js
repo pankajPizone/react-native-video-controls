@@ -1308,7 +1308,8 @@ const styles = {
             alignSelf: 'stretch',
             height: 28,
             marginLeft: 20,
-            marginRight: 20
+            marginRight: 20,
+            marginBottom:30
         },
         track: {
             backgroundColor: '#333',
